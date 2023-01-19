@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036920156882",
+    "project_id": "schidol-project",
+    "storage_bucket": "schidol-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036920156882:android:d47a5c5d757edf8c76f30b",
+        "android_client_info": {
+          "package_name": "com.example.schidol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036920156882-724btmgo8i18s60kf4vaq6ctq2to9hmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schidol",
+            "certificate_hash": "fa120645f91eaede4cae103a6ea4e877dc737b8e"
+          }
+        },
+        {
+          "client_id": "1036920156882-rekbk9o1fc34j69jvvri9a9ci4n6ti51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJ0oXpsF5gI9PiDRMytWb9s02AmGC_nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036920156882-rekbk9o1fc34j69jvvri9a9ci4n6ti51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
